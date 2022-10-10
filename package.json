@@ -1,5 +1,5 @@
 {
-  "name": "use-scroll-position-package",
+  "name": "usescroll-position",
   "version": "1.0.0",
   "description": "Package to determine scroll position",
   "main": "./dist/cjs/index.js",
